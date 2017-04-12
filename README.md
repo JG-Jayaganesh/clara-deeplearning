@@ -1,1 +1,1 @@
-# clara_deeplearning
+# clara-deeplearning
