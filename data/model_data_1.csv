@@ -1,4 +1,4 @@
-Name,Family_size,Status,Location,Age,Budget,Type of Vehicle,Model
+Name,Family_size,Budget,Status,Location,Age,Type of Vehicle,Model
 CUS1,5,Medium ,Single,LD,<40,Electric,GLE550e 4MATIC Plug-in Hybrid SUV
 CUS2,5,Low,Single,LD,<40,Gasoline,GLA250 4MATIC SUV
 CUS3,5,Medium ,Single,LD,<40,Gasoline,AMG GLE43 SUV
